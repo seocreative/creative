@@ -2,4 +2,4 @@
 
 $php = false;
 
-$php = false;
+$php = true;
