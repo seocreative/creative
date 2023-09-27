@@ -1,5 +1,5 @@
 <?php
 
-$php = false;
+$php = true;
 
 $php = true;
