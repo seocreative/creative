@@ -2,4 +2,4 @@
 
 $php = false;
 
-$php = 95;
+$php = 96;
